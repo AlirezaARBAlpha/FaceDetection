@@ -1,7 +1,6 @@
 import cv2
 import matplotlib.pyplot as plt
 import dlib
-from imutils import face_utils
 import numpy as np
 
 gray = cv2.imread('Enter url image', 0)
