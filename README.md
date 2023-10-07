@@ -19,3 +19,6 @@
  - [cv2](https://github.com/opencv/opencv-python)
  - [matplotlib](https://github.com/matplotlib/matplotlib)
  - [numpy](https://github.com/numpy/numpy)
+
+[original image 1](https://businesstech.co.za/news/wp-content/uploads/2015/03/Male-ideal-beauty.jpg)
+[original image 2](https://www.freepik.com/free-photo/serious-young-african-man-standing-isolated_7438865.htm#query=black%20man%20face&position=4&from_view=keyword&track=ais)
